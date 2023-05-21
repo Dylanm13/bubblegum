@@ -1,0 +1,109 @@
+.bgs__club {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+.bgs__club-container h1{
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.bgs__club-container_top {
+    text-align: center;
+}
+
+.bgs__club-container_banner {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    background-image: url('../../assets/bgs_banner.webp');
+    background-size: cover;
+    background-position: center;
+}
+
+.img__logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 35%;
+}
+
+.bgs__club-container_top button {
+    font-size: 25px;
+    padding: 0.5rem 1.5rem;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+    border-radius: 10px;
+    border: 3px white solid;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+    transition: 0.2s; 
+}
+
+.bgs__club-container_top button:hover {
+    transform: scale(1.07);
+}
+
+.bgs__club-container_text {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2rem;
+    padding: 2rem 6rem;
+}
+
+.bgs__club-container_text--infos {
+    transition: 0.3s;
+    padding: 1rem;
+}
+
+.bgs__club-container_text--infos:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+    
+}
+
+.bgs__club-container_text--infos_titles {
+    display: flex;
+}
+
+.bgs__club-container_text--infos_titles img {
+    object-fit: cover;
+    width: 60px;
+}
+
+.bgs__club-container_text--infos_titles h2 {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    text-transform: uppercase;
+}
+
+.bgs__club-container_text--infos_advantages p {
+    margin-top: 1rem;
+    text-transform: uppercase;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.bgs__club-container_footer {
+    padding: 2rem 6rem;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+
+    .bgs__club-container_text {
+        display: block;
+    }
+    .bgs__club-container_text--infos {
+        margin-top: 2rem;
+    }
+}
