@@ -64,8 +64,6 @@
 
 .bgs__club-container_text--infos:hover {
     transform: scale(1.05);
-    cursor: pointer;
-    
 }
 
 .bgs__club-container_text--infos_titles {
