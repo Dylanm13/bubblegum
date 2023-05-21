@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bubblegum/static/css/main.325085e4.css",
+    "main.css": "/bubblegum/static/css/main.24ee691d.css",
     "main.js": "/bubblegum/static/js/main.5d9a6616.js",
     "static/media/logo_bbg.png": "/bubblegum/static/media/logo_bbg.5c1ab7f9e7c86c333deb.png",
     "static/media/logo_discord.png": "/bubblegum/static/media/logo_discord.de489585649ae8765f8d.png",
@@ -11,11 +11,11 @@
     "static/media/logo_discount.png": "/bubblegum/static/media/logo_discount.beefda7c560a927a9892.png",
     "static/media/bgs_banner.webp": "/bubblegum/static/media/bgs_banner.4ef9433be5f1bba6bda8.webp",
     "index.html": "/bubblegum/index.html",
-    "main.325085e4.css.map": "/bubblegum/static/css/main.325085e4.css.map",
+    "main.24ee691d.css.map": "/bubblegum/static/css/main.24ee691d.css.map",
     "main.5d9a6616.js.map": "/bubblegum/static/js/main.5d9a6616.js.map"
   },
   "entrypoints": [
-    "static/css/main.325085e4.css",
+    "static/css/main.24ee691d.css",
     "static/js/main.5d9a6616.js"
   ]
 }
