@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/bubblegum/static/css/main.b50b4cf1.css",
-    "main.js": "/bubblegum/static/js/main.5d9a6616.js",
-    "static/media/logo_bbg.png": "/bubblegum/static/media/logo_bbg.5c1ab7f9e7c86c333deb.png",
+    "main.css": "/bubblegum/static/css/main.f04f2533.css",
+    "main.js": "/bubblegum/static/js/main.b8330a1c.js",
     "static/media/logo_discord.png": "/bubblegum/static/media/logo_discord.de489585649ae8765f8d.png",
+    "static/media/BBG_COLOR.png": "/bubblegum/static/media/BBG_COLOR.33d9c5c4d044d42ceae8.png",
     "static/media/logo_writer.png": "/bubblegum/static/media/logo_writer.fbc28328259ecd2c94f7.png",
     "static/media/logo_event.png": "/bubblegum/static/media/logo_event.229008dc6bb4d9a73811.png",
     "static/media/logo_sponsorship.png": "/bubblegum/static/media/logo_sponsorship.a2745c6897fd3a7975b5.png",
@@ -11,11 +11,11 @@
     "static/media/logo_discount.png": "/bubblegum/static/media/logo_discount.beefda7c560a927a9892.png",
     "static/media/bgs_banner.webp": "/bubblegum/static/media/bgs_banner.4ef9433be5f1bba6bda8.webp",
     "index.html": "/bubblegum/index.html",
-    "main.b50b4cf1.css.map": "/bubblegum/static/css/main.b50b4cf1.css.map",
-    "main.5d9a6616.js.map": "/bubblegum/static/js/main.5d9a6616.js.map"
+    "main.f04f2533.css.map": "/bubblegum/static/css/main.f04f2533.css.map",
+    "main.b8330a1c.js.map": "/bubblegum/static/js/main.b8330a1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b50b4cf1.css",
-    "static/js/main.5d9a6616.js"
+    "static/css/main.f04f2533.css",
+    "static/js/main.b8330a1c.js"
   ]
 }
